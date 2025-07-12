@@ -1,4 +1,6 @@
-<h2 align="center">Hi there👋! I'm TrMy aka TuTran21195</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Hi+There!+👋+I'm+TrMy+aka+TuTran21195!;" />
+</h1>
 
 ###
 
