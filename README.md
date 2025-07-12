@@ -97,8 +97,6 @@
 	- Bạn thân bản thân - Vietcetera
 	- Yêu lành - Vietcetera
 
-Một không gian nhỏ nơi tôi chia sẻ lại các kiến thức mình đã học được.
-Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.vercel.app/)
 
 ###
 
