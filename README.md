@@ -2,11 +2,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Hi+There!+👋+I'm+TrMy+aka+TuTran21195!;" />
 </h1>
 
+
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">On becoming a person</p>
 
+###
 
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">Hiện là một sinh viên đang trong giai đoạn thực tập mảng Backend, luôn trên hành trình khám phá những điều mới mẻ trong thế giới công nghệ. Và tôi tìm thấy niềm đam mê không chỉ trong công nghệ mà còn cả trong nghệ thuật.</p>
+
+###
+
+<h3 align="left">Skills & Technologies</h3>
+
+###
 ###
 
 <div align="center">
@@ -52,6 +65,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 </div>
+
+###
+
+
+<h3 align="left">My Personal Touches</h3>
+
+- **Sách** - Đầu sách yêu thích và đáng suy ngẫm:
+	- Đúng việc - Giản Tư Trung
+	- Rừng Na Uy - Murakami Haruki
+	- Con đường cách mạng (Revolutionary Road) - Richard Yates
+	- Giới hạn Roche - Kỷ Bôi
+	- Hiểu về trái tim - Minh Niệm
+	- Hướng nội - Susan Cain
+- **Phim ảnh** - Những bộ phim đáng chiêm nghiệm:
+	- Revolutionary Road (2008)
+	- Big Fish (2003)
+	- Perfect Days (2023)
+	- Happy Together - Xuân quang xạ chiết (1997)
+	- Merry Christmas, Mr. Lawrence (1983)
+	- A Distant Place (2020)
+- **Âm nhạc** - Những bản nhạc phát đi phát lại
+	- White Mustang - Lana Del Rey
+	- Brooklyn Baby - Lana Del Rey
+	- Get Free - Lana Del Rey
+	- Merry Christmas Mr. Lawrence - Ryuichi Sakamoto
+	- Trời đánh tránh ta, ta va trúng người (Album) - The Flob
+	- NỨT (Đôi Chân Đôi Tay Đôi Mắt Trái Tim) - Ngọt
+- **Podcast** 
+	- Được mất - Vietcetera
+	- Bạn thân bản thân - Vietcetera
+	- Yêu lành - Vietcetera
+
+Một không gian nhỏ nơi tôi chia sẻ lại các kiến thức mình đã học được.
+Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.vercel.app/)
+
+###
+
+<h4 align="left">Digital Notes</h4>
+Một không gian nhỏ nơi tôi chia sẻ lại các kiến thức mình đã học được.
+
+Ghé thăm Digital Notes của tôi: [Tutran Garden](https://tutran-garden.vercel.app/)
+###
+
+<h3 align="left">Connect with me</h3>
 
 ###
 
