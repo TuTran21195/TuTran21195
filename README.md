@@ -68,6 +68,27 @@
 
 ###
 
+<h3 align="left">Projects</h3>
+
+<a href="https://github.com/danieldoisme/portal-tuyen-sinh">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danieldoisme&repo=portal-tuyen-sinh&theme=radical" />
+</a>    
+<a href="https://github.com/hoangtung2103/tuyensinh">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&theme=merko" />
+</a>
+
+<a href="https://github.com/TuTran21195/internetofthings-mini-proj">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=internetofthings-mini-proj&theme=gruvbox" />
+</a>    
+<a href="https://github.com/TuTran21195/ptit-android-app-java">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=ptit-android-app-java&theme=dark" />
+</a>
+
+###
 
 <h3 align="left">My Personal Touches</h3>
 
