@@ -70,23 +70,38 @@
 
 <h3 align="left">Projects</h3>
 
-<a href="https://github.com/danieldoisme/portal-tuyen-sinh">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danieldoisme&repo=portal-tuyen-sinh&theme=radical" />
-</a>    
-<a href="https://github.com/hoangtung2103/tuyensinh">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&theme=merko" />
-</a>
+<div align="center"> 
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=danieldoisme&repo=portal-tuyen-sinh&description_lines_count=3&theme=radical"/>
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&description_lines_count=3&theme=merko"/>
+	</a>
+</div>
 
-<a href="https://github.com/TuTran21195/internetofthings-mini-proj">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=internetofthings-mini-proj&theme=gruvbox" />
-</a>    
-<a href="https://github.com/TuTran21195/ptit-android-app-java">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=ptit-android-app-java&theme=dark" />
-</a>
+<div align="center"> 
+	<a href="https://github.com/TuTran21195/internetofthings-mini-proj">
+	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=internetofthings-mini-proj&description_lines_count=3&theme=gruvbox" />
+	</a>    
+	<a href="https://github.com/TuTran21195/ptit-android-app-java">
+	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=ptit-android-app-java&theme=dark&description_lines_count=3" />
+	</a>
+</div>
+
+<div align="center"> 
+	<a href="https://github.com/TuTran21195/steg-labs">
+	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=steg-labs&description_lines_count=3&theme=onedark" />
+	</a>    
+	<a href="https://github.com/TuTran21195/PTTKHT_RestMan_Code24">
+	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuTran21195&repo=PTTKHT_RestMan_Code24&description_lines_count=3&theme=cobalt" />
+	</a>
+</div>
+
 
 ###
 
