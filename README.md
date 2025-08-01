@@ -71,11 +71,11 @@
 <h3 align="left">Projects</h3>
 
 <div align="center"> 
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/danieldoisme/portal-tuyen-sinh">
 		<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=danieldoisme&repo=portal-tuyen-sinh&description_lines_count=3&theme=radical"/>
 	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/hoangtung2103/tuyensinh">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&description_lines_count=3&theme=merko"/>
 	</a>
 </div>
