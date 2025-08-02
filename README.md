@@ -76,7 +76,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=danieldoisme&repo=portal-tuyen-sinh&description_lines_count=3&theme=radical"/>
 	</a>
 	<a href="https://github.com/hoangtung2103/tuyensinh">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&description_lines_count=3&theme=merko"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtung2103&repo=tuyensinh&description_lines_count=3&theme=merko&card_width=55"/>
 	</a>
 </div>
 
