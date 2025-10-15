@@ -119,19 +119,15 @@
 	- Big Fish (2003)
 	- Perfect Days (2023)
 	- Happy Together - Xuân quang xạ chiết (1997)
-	- Merry Christmas, Mr. Lawrence (1983)
 	- A Distant Place (2020)
 - **Âm nhạc** - Những bản nhạc phát đi phát lại
 	- White Mustang - Lana Del Rey
-	- Brooklyn Baby - Lana Del Rey
-	- Get Free - Lana Del Rey
 	- Merry Christmas Mr. Lawrence - Ryuichi Sakamoto
 	- Trời đánh tránh ta, ta va trúng người (Album) - The Flob
 	- NỨT (Đôi Chân Đôi Tay Đôi Mắt Trái Tim) - Ngọt
 - **Podcast** 
 	- Được mất - Vietcetera
 	- Bạn thân bản thân - Vietcetera
-	- Yêu lành - Vietcetera
 
 
 ###
